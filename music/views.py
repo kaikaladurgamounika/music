@@ -20,23 +20,14 @@ def detail(request, album_id):
     #return HttpResponse("<h2> Details for Album id:"+str(album_id)+"</h2>")
     try:
         albums=Album.objects.get(pk=album_id)
-        songs=albums.song_set.all()
-        songs = list(songs)
+        all_songs=albums.song_set.all()
+        all_songs = list(all_songs)
+        all_albums=Album.objects.all()
+        songs=Song.objects.all()
     except Album.DoesNotExist:
         raise Http404("Album does not exist")
-    return render(request, 'music/details.html',{'songs':songs , 'albums':albums})
+    return render(request, 'music/details.html',{'songs':songs ,'all_albums':all_albums, 'albums':albums ,'all_songs':all_songs})
 
-
-
-'''{
-    'title':'',
-    'logo': '',
-    'gene':'',
-    'artis': '',
-    'type':'',
-    '': ''
-    
-}'''
 def favorite(request, album_id):
     return HttpResponse("hello")
 
