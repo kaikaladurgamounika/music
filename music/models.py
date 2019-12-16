@@ -10,7 +10,6 @@ class Album(models.Model):
     def __str__(self):
         return self.artist
 
-
 class Song(models.Model):
     album=models.ForeignKey(Album,on_delete=models.CASCADE)
     file_type=models.CharField(max_length=10)
