@@ -1,0 +1,1061 @@
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/CE_MINOR/.git/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .PyCharmCE2018.1/
+        .bash_history
+        .gitconfig
+        .idlerc/
+        .matplotlib/
+        3D Objects/
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        MicrosoftEdgeBackups/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TM.blf
+        NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        PycharmProjects/
+        Saved Games/
+        Searches/
+        Videos/
+        first-project/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        pgm.asv
+        sasprt.ps
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ cd
+Display all 48 possibilities? (y or n)
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ cd
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ cd c/Users/CE_MINOR
+bash: cd: c/Users/CE_MINOR: No such file or directory
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ CD95F661A5C444F5A6AAECDD91C240E6.TMP/
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ first-project/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Backup Files'/
+'My Documents'@
+ NetHood@
+'New folder'/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TM.blf
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ outout/
+ pgm.asv
+ Pictures/
+ PrintHood@
+ PycharmProjects/
+ Recent@
+ sasprt.ps
+'Saved Games'/
+ Searches/
+ SendTo@
+ source/
+'Start Menu'@
+ Templates@
+ Videos/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ cd PycharmProjects/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ ls
+book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ cd book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ ls
+products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music (master)
+$ ls
+__init__.py   admin.py  migrations/  templates/  urls.py
+__pycache__/  apps.py   models.py    tests.py    views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music (master)
+$ git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../../../.PyCharmCE2018.1/
+        ../../../../.bash_history
+        ../../../../.gitconfig
+        ../../../../.idlerc/
+        ../../../../.matplotlib/
+        ../../../../3D Objects/
+        ../../../../AppData/
+        ../../../../Contacts/
+        ../../../../Desktop/
+        ../../../../Documents/
+        ../../../../Downloads/
+        ../../../../Favorites/
+        ../../../../IntelGraphicsProfiles/
+        ../../../../Links/
+        ../../../../MicrosoftEdgeBackups/
+        ../../../../Music/
+        ../../../../NTUSER.DAT
+        ../../../../NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TM.blf
+        ../../../../NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../OneDrive/
+        ../../../../Pictures/
+        ../../../
+        ../../../../Saved Games/
+        ../../../../Searches/
+        ../../../../Videos/
+        ../../../../first-project/
+        ../../../../ntuser.dat.LOG1
+        ../../../../ntuser.dat.LOG2
+        ../../../../ntuser.ini
+        ../../../../pgm.asv
+        ../../../../sasprt.ps
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music (master)
+$ vi .
+./  ../
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ ls
+products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ ls -a
+./  ../  .idea/  products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ ls -a
+./  ../  book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ cd book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ ls
+products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ cd vinay/
+l
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ ls
+book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ CD95F661A5C444F5A6AAECDD91C240E6.TMP/
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ first-project/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Backup Files'/
+'My Documents'@
+ NetHood@
+'New folder'/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TM.blf
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{388563c5-b3bc-11e9-9d71-fde66b3aa5ba}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ outout/
+ pgm.asv
+ Pictures/
+ PrintHood@
+ PycharmProjects/
+ Recent@
+ sasprt.ps
+'Saved Games'/
+ Searches/
+ SendTo@
+ source/
+'Start Menu'@
+ Templates@
+ Videos/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ find . -iname.git
+find: unknown predicate `-iname.git'
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ find . -iname`.git
+> ^C
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ find . -iname .git
+./.git
+find: ‘./AppData/Local/ElevatedDiagnostics’: Permission denied
+
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ vi .git
+.git/       .gitconfig
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ vi .git/config
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~ (master)
+$ rm -rf .git
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~
+$ cd PycharmProjects/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects
+$ ls
+book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects
+$ cd book_store/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ ls
+products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ cd music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music
+$ ls
+__init__.py   admin.py  migrations/  templates/  urls.py
+__pycache__/  apps.py   models.py    tests.py    views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music
+$ vi .gitignore
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music
+$ ls
+__init__.py  __pycache__/  admin.py  apps.py  migrations/  models.py  templates/  tests.py  urls.py  views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music
+$ ls
+__init__.py  __pycache__/  admin.py  apps.py  migrations/  models.py  templates/  tests.py  urls.py  views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/music
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ ls
+__init__.py  __pycache__/  settings.py  urls.py  wsgi.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ music/
+bash: music/: Is a directory
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ ls
+__init__.py  __pycache__/  settings.py  urls.py  wsgi.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ lsls
+bash: lsls: command not found
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ ls
+__init__.py  __pycache__/  settings.py  urls.py  wsgi.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ mv .
+./  ../
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/vinay
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ mv music/.gitignore  .
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls -a
+./  ../  .gitignore  db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay
+$ git init
+Initialized empty Git repository in C:/Users/CE_MINOR/PycharmProjects/book_store/vinay/.git/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git remote add origin https://github.com/kaikaladurgamounika/music.git
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        manage.py
+        music/
+        vinay/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git add .
+warning: CRLF will be replaced by LF in manage.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/admin.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/apps.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/migrations/0001_initial.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/migrations/0002_song_is_favorite.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/models.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/templates/music/details.html.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/templates/music/example.html.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/templates/music/index.html.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/tests.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/urls.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in music/views.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in vinay/settings.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in vinay/urls.py.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in vinay/wsgi.py.
+The file will have its original line endings in your working directory
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git commit -m "my first push"
+[master (root-commit) e4e3e63] my first push
+ 19 files changed, 453 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 manage.py
+ create mode 100644 music/__init__.py
+ create mode 100644 music/admin.py
+ create mode 100644 music/apps.py
+ create mode 100644 music/migrations/0001_initial.py
+ create mode 100644 music/migrations/0002_song_is_favorite.py
+ create mode 100644 music/migrations/__init__.py
+ create mode 100644 music/models.py
+ create mode 100644 music/templates/music/details.html
+ create mode 100644 music/templates/music/example.html
+ create mode 100644 music/templates/music/index.html
+ create mode 100644 music/tests.py
+ create mode 100644 music/urls.py
+ create mode 100644 music/views.py
+ create mode 100644 vinay/__init__.py
+ create mode 100644 vinay/settings.py
+ create mode 100644 vinay/urls.py
+ create mode 100644 vinay/wsgi.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git push origin master
+Enumerating objects: 24, done.
+Counting objects: 100% (24/24), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (22/22), done.
+Writing objects: 100% (24/24), 6.00 KiB | 323.00 KiB/s, done.
+Total 24 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/kaikaladurgamounika/music.git
+ * [new branch]      master -> master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git pull origin master
+From https://github.com/kaikaladurgamounika/music
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ git pull origin master
+fatal: not a git repository (or any of the parent directories): .git
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ ls -a
+./  ../  .git/  .gitignore  db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd .git
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/.git (GIT_DIR!)
+$ ls
+COMMIT_EDITMSG  config  description  FETCH_HEAD  HEAD  hooks/  index  info/  logs/  objects/  ORIG_HEAD  refs/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/.git (GIT_DIR!)
+$ vi config
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/.git (GIT_DIR!)
+$ ls
+COMMIT_EDITMSG  config  description  FETCH_HEAD  HEAD  hooks/  index  info/  logs/  objects/  ORIG_HEAD  refs/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay/.git (GIT_DIR!)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ ls
+products/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ mkdir test
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd test/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ ls
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ git clone https://github.com/kaikaladurgamounika/music.git
+Cloning into 'music'...
+remote: Enumerating objects: 24, done.
+remote: Counting objects: 100% (24/24), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 24 (delta 1), reused 24 (delta 1), pack-reused 0
+Unpacking objects: 100% (24/24), done.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ ls
+music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ cd music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (master)
+$ ls
+manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (master)
+$ git checkout -b bookapp
+Switched to a new branch 'bookapp'
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git branch
+* bookapp
+  master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ ls
+manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ touch test.txt
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ ls
+manage.py*  music/  test.txt  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git add .
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git commit -m "branch test"
+[bookapp 6472a5d] branch test
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.txt
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git push origin bookapp
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 257 bytes | 64.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'bookapp' on GitHub by visiting:
+remote:      https://github.com/kaikaladurgamounika/music/pull/new/bookapp
+remote:
+To https://github.com/kaikaladurgamounika/music.git
+ * [new branch]      bookapp -> bookapp
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git branch
+* bookapp
+  master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ git pull origin master
+From https://github.com/kaikaladurgamounika/music
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/music (bookapp)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ ls
+music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ mkdir test2
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ cd test2/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ ls
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ git clone https://github.com/kaikaladurgamounika/music.git
+Cloning into 'music'...
+remote: Enumerating objects: 26, done.
+remote: Counting objects: 100% (26/26), done.
+remote: Compressing objects: 100% (22/22), done.
+remote: Total 26 (delta 2), reused 26 (delta 2), pack-reused 0
+Unpacking objects: 100% (26/26), done.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ cd music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (master)
+$ git pull origin bookapp
+From https://github.com/kaikaladurgamounika/music
+ * branch            bookapp    -> FETCH_HEAD
+Updating e4e3e63..6472a5d
+Fast-forward
+ test.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.txt
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (master)
+$ git brach
+git: 'brach' is not a git command. See 'git --help'.
+
+The most similar command is
+        branch
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (master)
+$ git branch
+* master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (master)
+$ git checkout bookapp
+Switched to a new branch 'bookapp'
+Branch 'bookapp' set up to track remote branch 'bookapp' from 'origin'.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (bookapp)
+$ git status
+On branch bookapp
+Your branch is up to date with 'origin/bookapp'.
+
+nothing to commit, working tree clean
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (bookapp)
+$ git branch
+* bookapp
+  master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (bookapp)
+$ ls
+manage.py*  music/  test.txt  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/music (bookapp)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ ls
+music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ git clone https://github.com/kaikaladurgamounika/image_gallery.git
+Cloning into 'image_gallery'...
+warning: You appear to have cloned an empty repository.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ ls
+image_gallery/  music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$ cd image_gallery/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ ls
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git branch
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ touch Readme.md
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git add .
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Readme.md
+
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git commit -m "first push"
+[master (root-commit) b7dc646] first push
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Readme.md
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 205 bytes | 205.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/kaikaladurgamounika/image_gallery.git
+ * [new branch]      master -> master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git checkout bookapp
+error: pathspec 'bookapp' did not match any file(s) known to git
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (master)
+$ git checkout -b bookapp
+Switched to a new branch 'bookapp'
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (bookapp)
+$ git pull origin
+You asked to pull from the remote 'origin', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (bookapp)
+$ git pull origin master
+From https://github.com/kaikaladurgamounika/image_gallery
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (bookapp)
+$ git branch
+* bookapp
+  master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2/image_gallery (bookapp)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test/test2
+$  cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/test
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ ls
+products/  test/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd v
+venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd vinay
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git  branch
+* master
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (master)
+$ git checkout -b music
+Switched to a new branch 'music'
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git branch
+  master
+* music
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git pull origin master
+From https://github.com/kaikaladurgamounika/music
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   music/models.py
+        deleted:    music/templates/music/example.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git add .^C
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git add .
+warning: CRLF will be replaced by LF in music/models.py.
+The file will have its original line endings in your working directory
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   music/models.py
+        deleted:    music/templates/music/example.html
+
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git push origin music
+Total 0 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'music' on GitHub by visiting:
+remote:      https://github.com/kaikaladurgamounika/music/pull/new/music
+remote:
+To https://github.com/kaikaladurgamounika/music.git
+ * [new branch]      music -> music
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls
+.git/       .gitignore  db.sqlite3  manage.py   music/      vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/
+__init__.py  __pycache__/ admin.py     apps.py      migrations/  models.py    templates/   tests.py     urls.py      views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/
+__init__.py  __pycache__/ admin.py     apps.py      migrations/  models.py    templates/   tests.py     urls.py      views.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/te
+templates/ tests.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/te
+templates/ tests.py
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/templates/
+music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls music/templates/music/
+details.html  index.html
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   music/models.py
+        deleted:    music/templates/music/example.html
+
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git add .
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git commit -m "deleted example.html"
+[music 710711c] deleted example.html
+ 2 files changed, 12 deletions(-)
+ delete mode 100644 music/templates/music/example.html
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git push origin music
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 461 bytes | 153.00 KiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/kaikaladurgamounika/music.git
+   e4e3e63..710711c  music -> music
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+nothing to commit, working tree clean
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+nothing to commit, working tree clean
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ ls
+products/  test/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ ls
+db.sqlite3  manage.py*  music/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git branch
+  master
+* music
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ touch Readme.md
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git add .
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git commit -m  "Read me file added"
+[music 8622d5a] Read me file added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Readme.md
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git push origin music
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 257 bytes | 85.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/kaikaladurgamounika/music.git
+   710711c..8622d5a  music -> music
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ git status
+On branch music
+nothing to commit, working tree clean
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/vinay (music)
+$ cd ..
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ ls
+products/  test/  venv/  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ git clone -b music  https://github.com/kaikaladurgamounika/music.git
+Cloning into 'music'...
+remote: Enumerating objects: 35, done.
+remote: Counting objects: 100% (35/35), done.
+remote: Compressing objects: 100% (25/25), done.
+remote: Total 35 (delta 8), reused 33 (delta 7), pack-reused 0
+Unpacking objects: 100% (35/35), done.
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store
+$ cd music/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/music (music)
+$ ls
+manage.py*  music/  Readme.md  vinay/
+
+CE_MINOR@CE_MINOR-PC MINGW32 ~/PycharmProjects/book_store/music (music)
+$ git branch
+* music
+
