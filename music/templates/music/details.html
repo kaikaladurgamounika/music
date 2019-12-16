@@ -1,0 +1,15 @@
+<img src="{{albums.album_logo}}" width="300" height="300">
+#<h2>{{albums.artist}}</h2>
+
+
+<ul>
+    <h3>{{albums.title}}</h3>
+    {% if songs %}
+        {% for list in songs %}
+                <li>{{list}}<br></li>
+        {% endfor %}
+    {% else %}
+    <h4>sorry no songs available</h4>
+    {% endif %}
+</ul>
+
